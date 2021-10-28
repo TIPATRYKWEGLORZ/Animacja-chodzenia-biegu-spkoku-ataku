@@ -123,7 +123,11 @@ public class Ruch : MonoBehaviour
     private void Attack()
     {
         anim.SetTrigger("Attack");
+ 
     }
+
+    
+
 } 
  
 
